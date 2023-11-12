@@ -12,6 +12,7 @@ This project was part of an educational learning experience and evaluation in an
 # Modeling and Evaluation 
 An example of the GUI is shown below. The GUI allows the user to enter various parameters of their sample and test conditions such as molar absorption coefficient, concentration, path length and incident radiation flux. 
 ![image](https://github.com/kayneong/Sample-Absorbance-GUI/assets/150570357/909d1bb4-8712-4687-9819-79bc275c40e2)
+
 This generates a plot that shows the decay of irradiation intensity against the path length (Length of the cuvette holding the sample solution) as seen below. 
 ![image](https://github.com/kayneong/Sample-Absorbance-GUI/assets/150570357/085c8f69-7c0f-4c54-991c-7f4664996ba6)
 
